@@ -5,7 +5,7 @@ project(Minesweeper VERSION 1.0)
 
 file(GLOB SOURCE "src/*.c" "include/*.h")
 # -I option for usr headers in include/
-include_directories("/")
+include_directories("include")
 # include SDL
 include_directories("libs/SDL2/include")
 # where to find SDL2 libraries 

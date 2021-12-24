@@ -31,7 +31,7 @@ This guide assumes you have these installed on your machine:
 ```powershell
 $ git clone https://github.com/LionasBaslis2sis/Minesweeper.git
 ```
-To build this project you will first need to download the latest [SDL developement library](https://www.libsdl.org/download-2.0.php) (be sure to download the one with "-VC" extension)
+To build this project you will need to download the latest [SDL developement library](https://www.libsdl.org/download-2.0.php) (be sure to download the one with "-VC" extension)
 - extract it and rename the folder to `SDL2`
 - go to `Minesweeper/` and create a new folder `libs`
 - move `SDL2` to `libs` 
